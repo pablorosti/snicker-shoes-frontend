@@ -1,6 +1,7 @@
 <template>
-  <header class="container_header">
-    <img class="nuxt_image" src="@/public/img/nuxt.svg" alt="nuxt image" />
+  <header class="container_header bg-green-300">
+    <img class="nuxt_image" src="@/img/nuxt.svg" alt="nuxt image" />
+
     <input type="text" />
   </header>
 </template>
