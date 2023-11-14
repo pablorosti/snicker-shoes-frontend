@@ -1,21 +1,16 @@
 <template>
   <div class="layout_container">
-    <header class="container_header">
-      <img class="nuxt_image" src="../public/img/nuxt.svg" alt="nuxt image" />
-      <input type="text" />
-    </header>
+    <Header />
 
     <slot />
 
-    <footer>
-      Este va a ser el footer, todos los derechos reservados desde
-      {{ fullYear }}
-    </footer>
+    <Footer />
   </div>
 </template>
 
 <script lang="ts" setup>
-const fullYear = new Date().getFullYear();
+import Header from "@/components/Header.vue";
+import Footer from "@/components/Footer.vue";
 </script>
 
 <style lang="scss" scoped>
@@ -24,14 +19,5 @@ const fullYear = new Date().getFullYear();
   flex-direction: column;
   justify-content: space-between;
   height: 100vh;
-
-  .container_header {
-    display: flex;
-    justify-content: space-between;
-  }
-
-  .nuxt_image {
-    width: 100px;
-  }
 }
 </style>
