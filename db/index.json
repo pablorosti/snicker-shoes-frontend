@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "name": "Twix",
+        "price": 250,
+        "color": "brown",
+        "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Snickers",
+        "price": 300,
+        "color": "gold",
+        "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-02.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Kit Kat",
+        "price": 180,
+        "color": "crimson",
+        "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-03.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mars",
+        "price": 220,
+        "color": "red",
+        "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-04.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Milky Way",
+        "price": 200,
+        "color": "silver",
+        "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-02.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Reese's",
+        "price": 280,
+        "color": "orange",
+        "image": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+    }
+]

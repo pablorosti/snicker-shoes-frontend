@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.text_red {
+  color: red;
+}
+
+body {
+  background-color: rgb(238, 238, 238);
+}
