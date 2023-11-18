@@ -1,5 +1,5 @@
 <template>
-  <header class="bg-yellow-200 shadow-2xl py-8">
+  <header class="bg-yellow-400 shadow-2xl py-8">
     <div class="container mx-auto flex justify-between">
       <NuxtLink to="/" class="flex">
         <img class="w-36" src="../../public/img/nuxt.svg" alt="nuxt image" />

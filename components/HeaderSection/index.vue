@@ -1,6 +1,6 @@
 import type { mergeProps } from 'vue';
 <template>
-  <div class="mt-10 flex justify-between align-center">
+  <div class="flex justify-between align-center">
     <div class="flex gap-2">
       <svg
         width="18"
